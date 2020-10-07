@@ -1,0 +1,43 @@
+body {
+  color: #999;
+}
+
+.menu {
+  display: inline-block;
+}
+
+.wrapChart {
+  display: inline-block;
+  vertical-align: top;
+  margin: 5px;
+  width: 400px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+  font-size: 15px;
+  display: block;
+  width: 100%;
+  border: white;
+}
+
+select {
+  width: 49%;
+  outline: 0;
+}
+
+.chart {
+  width: 393px;
+  height: 393px;
+  border: 1px solid rgb(212, 212, 212);
+  margin-top: 5px;
+}
+
+h3 {
+  margin-left: 5px;
+}
+
+.redBorderSelect {
+  border: 1px solid rgb(189, 25, 25);
+}
