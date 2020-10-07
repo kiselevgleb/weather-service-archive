@@ -1,6 +1,11 @@
 # Weather service
 This app shows the weather archive (temperature and precipitation) from 1881 to 2006.
-https://kiselevgleb.github.io/weather-service-archive/
+
+Built app:
+https://kiselevgleb.github.io/weather-service-archive/dist/
+
+Scripts: 
+https://github.com/kiselevgleb/weather-service-archive/tree/master/src/js
 
    npm start: "webpack-dev-server --mode development"
    npm build: "webpack --mode production"
